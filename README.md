@@ -1,6 +1,10 @@
 # 🏥 Clinic Appointment System
 **Advanced Programming (.NET) — Semester Project | Spring 2026**
 
+### Team
+- **Leader:** Muhammad Noman
+- **Group Member:** Muhammad Mudassir Asghar
+
 ---
 
 ## Rubric Coverage
